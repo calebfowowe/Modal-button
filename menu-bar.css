@@ -200,6 +200,7 @@ form input {
 .modal-footer{
     display: block;
     padding: 0px;
+    border-top: none;
 }
 .modal-footer .btn button {
     position: absolute;
@@ -224,3 +225,6 @@ form input {
     border: black solid 1px;
 }
 
+.modal-header{
+    border-bottom: none;
+}
