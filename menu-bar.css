@@ -159,7 +159,7 @@ form input {
 .modal-content-lhs{
     width: 50%;
     height: 350px;
-    background-image: url("/Images/email_subscribe_popup_image.jpg");
+    background-image: url("Images/email_subscribe_popup_image.jpg");
     background-size: cover;
     float: left;
     position: absolute;
